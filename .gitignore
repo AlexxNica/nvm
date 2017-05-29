@@ -16,8 +16,8 @@ npm-debug.log
 #current
 #default-packages
 
-versions/**/**/node_modules
+#versions/**/**/node_modules
 versions/**/**/include
-versions/**/**/bin
+#versions/**/**/bin
 versions/**/**/lib
 versions/**/**/share
