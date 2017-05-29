@@ -1,7 +1,7 @@
-HEAD
+#HEAD
 .cache
-v*
-alias
+#v*
+#alias
 
 # For testing
 test/bak
@@ -13,5 +13,11 @@ node_modules/
 npm-debug.log
 
 .DS_Store
-current
-default-packages
+#current
+#default-packages
+
+versions/**/**/node_modules
+versions/**/**/include
+versions/**/**/bin
+versions/**/**/lib
+versions/**/**/share
